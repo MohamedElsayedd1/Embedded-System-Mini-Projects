@@ -1,7 +1,7 @@
-#ifndef _KEYBAD_H_
-#define _KEYBAD_H_
+#ifndef _KEYPAD_H_
+#define _KEYPAD_H_
 
-#define keybad 1
+#define keypad 1
 
 void keypad_initialize();
 
