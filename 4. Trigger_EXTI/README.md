@@ -3,7 +3,6 @@
 ### Overview
 This repository contains a fully configurable EXTI driver for STM32F103x6 microcontrollers. The driver allows the configuration and management of external interrupts on GPIO pins, supporting various trigger types and callback mechanisms.
 
----
 
 ### Features
 - Configurable edge trigger: **Falling Edge**, **Rising Edge**, or **Both Edges**.
