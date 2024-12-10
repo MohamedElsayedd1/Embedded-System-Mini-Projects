@@ -149,13 +149,3 @@ int main() {
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
---- 
-
-Feel free to modify this as needed for your project!
-
-
-## Support
-For any questions or support, please contact the repository maintainer.
