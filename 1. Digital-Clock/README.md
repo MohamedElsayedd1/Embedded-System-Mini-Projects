@@ -31,7 +31,7 @@ This project implements a digital clock using an ATmega32 microcontroller, 7-seg
   - Atmel Studio (optional) or any compatible IDE
 - **Programming Language:** C
 
-## Circuit Diagram
+## Circuit Diagram :
 
 ### Connections:
 

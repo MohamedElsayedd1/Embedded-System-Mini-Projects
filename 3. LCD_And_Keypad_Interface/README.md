@@ -13,7 +13,6 @@ This project demonstrates how to interface a **4x4 Keypad** with an **LCD displa
 - **LCD Integration**: Shows the pressed key on the LCD in real-time.
 - **Debounce Logic**: Prevents multiple detections from a single press due to mechanical bounce.
 
----
 
 ## How It Works
 
