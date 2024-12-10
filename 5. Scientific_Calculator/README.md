@@ -2,7 +2,7 @@
 
 This project implements a scientific calculator using an ATmega32 microcontroller, a 4x4 keypad, and an LCD display. The calculator can perform basic arithmetic operations as well as advanced scientific functions like trigonometric calculations, logarithms, square roots, and exponents.
 
-![Scientific Calculator]()
+![Scientific Calculator](https://github.com/MohamedElsayedd1/Embedded-System-Mini-Projects/blob/main/5.%20Scientific_Calculator/CalculatorSimulation.gif)
 
 ## Features
 
