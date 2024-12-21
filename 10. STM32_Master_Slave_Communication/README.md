@@ -19,8 +19,6 @@ This project demonstrates SPI and USART communication on the STM32F103C6 microco
   - Keil MicroVision for building and debugging
   - STM32 Peripheral Drivers (provided in the repository)
 
----
-
 ## Proteus Simulation
 
 ### Steps to Simulate in Proteus:

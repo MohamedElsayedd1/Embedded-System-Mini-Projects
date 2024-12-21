@@ -14,8 +14,6 @@ This project implements an SPI (Serial Peripheral Interface) driver for the STM3
 - GPIO configuration for SPI chip select.
 - Flexible and modular architecture for easy reuse and adaptation.
 
-```
-
 ## **Getting Started**
 
 ### **Hardware Requirements**
